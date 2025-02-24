@@ -1,4 +1,4 @@
-# `ICE Example project`
+# ICE Example project
 
 This is an example project which uses ICE to deploy 26 canisters with complicated dependencies & setup in a single command.
 
