@@ -25,3 +25,4 @@ dist/
 .env
 
 .ice
+canister_ids.json

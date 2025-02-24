@@ -1,10 +1,4 @@
 {
-  "canisters": {
-    "ice_test_backend": {
-      "main": "canisters/ice_test_backend/main.mo",
-      "type": "motoko"
-    }
-  },
   "defaults": {
     "build": {
       "args": "",
