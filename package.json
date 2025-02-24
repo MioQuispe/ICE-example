@@ -10,8 +10,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@ice.ts/canisters": "file:../ice/packages/canisters",
-    "@ice.ts/runner": "file:../ice/packages/runner",
+    "@ice.ts/canisters": "^0.0.7",
+    "@ice.ts/runner": "^0.0.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
